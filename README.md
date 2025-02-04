@@ -73,9 +73,6 @@ Contributions are welcome! Please read the CONTRIBUTING guidelines first.
 - Thanks to the World Bank and IMF for providing the data.
 - Special thanks to the open-source community for their invaluable tools and libraries.
 
-## Screenshots
-![Dashboard Screenshot 1](data/Screenshot%202025-02-02%20225234.png)
-![Dashboard Screenshot 2](data/Screenshot%202025-02-02%20225303.png)
 ![Banner Image](data/pic.jpg)
 
 ## Contact
