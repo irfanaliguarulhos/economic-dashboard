@@ -2,6 +2,7 @@
 
 Welcome to the Global Economic Indicators Dashboard! This dashboard provides a comparative analysis of various economic, demographic, and social indicators across multiple countries from 1999 to 2025. 📊
 
+![Dashboard GIF](https://github.com/irfanaliguarulhos/economic-dashboard/blob/main/data/Untitled%20Project12%20(1).gif)
 ## Features
 
 - **User-Friendly Interface**: Easily select countries and years to visualize data.
